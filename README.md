@@ -23,5 +23,4 @@ Things you may want to cover:
 
 * ...
 
-This is REV1
-This is REV2
+This is REV123
